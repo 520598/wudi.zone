@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>纸间</title>
-        <link>https://520598.github.io/wudi.zone/</link>
+        <link>https://blog.wudi.zone/</link>
         <description>写一些日常，也记录那些值得留下的想法。</description>
         <lastBuildDate>Fri, 09 Oct 2026 16:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -11,7 +11,7 @@
         <copyright>一位记录者</copyright>
         <item>
             <title><![CDATA[把日子过慢一点]]></title>
-            <link>https://520598.github.io/wudi.zone/posts/slow-days/</link>
+            <link>https://blog.wudi.zone/posts/slow-days/</link>
             <guid isPermaLink="false">urn:blog:post:slow-days</guid>
             <pubDate>Fri, 09 Oct 2026 16:00:00 GMT</pubDate>
             <description><![CDATA[少一点安排，多一点感受。最近开始重新留意生活中的小事，才发现寻常日子也有自己的光。]]></description>
@@ -21,7 +21,7 @@
         </item>
         <item>
             <title><![CDATA[一次没有计划的散步]]></title>
-            <link>https://520598.github.io/wudi.zone/posts/unplanned-walk/</link>
+            <link>https://blog.wudi.zone/posts/unplanned-walk/</link>
             <guid isPermaLink="false">urn:blog:post:unplanned-walk</guid>
             <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
             <description><![CDATA[沿着熟悉的街道一直往前走，在落日之前停下来。没有目的地的下午，也能带来一点新的发现。]]></description>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[最近在读什么]]></title>
-            <link>https://520598.github.io/wudi.zone/posts/reading-notes/</link>
+            <link>https://blog.wudi.zone/posts/reading-notes/</link>
             <guid isPermaLink="false">urn:blog:post:reading-notes</guid>
             <pubDate>Wed, 30 Sep 2026 16:00:00 GMT</pubDate>
             <description><![CDATA[不再急着读完一本书。记下让自己停留的句子，和那些从阅读中慢慢生长出来的感想。]]></description>
@@ -41,7 +41,7 @@
         </item>
         <item>
             <title><![CDATA[给文字一个自己的地方]]></title>
-            <link>https://520598.github.io/wudi.zone/posts/a-small-blog/</link>
+            <link>https://blog.wudi.zone/posts/a-small-blog/</link>
             <guid isPermaLink="false">urn:blog:post:a-small-blog</guid>
             <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
             <description><![CDATA[从一份 Markdown 开始，写文章、改配色，再把更新交给自动发布。一个小小的博客，也可以慢慢长大。]]></description>
