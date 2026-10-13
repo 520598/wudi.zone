@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="海边落日插图">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#bdcfd0"/><stop offset="1" stop-color="#ede1ca"/></linearGradient><linearGradient id="sea" x2="0" y2="1"><stop stop-color="#adbfb2"/><stop offset="1" stop-color="#809d92"/></linearGradient></defs>
+<path fill="url(#sky)" d="M0 0h800v600H0z"/><circle cx="558" cy="218" r="61" fill="#f4e5c6"/><path fill="#d9ceb5" d="M0 335h800v61H0z"/><path fill="url(#sea)" d="M0 371h800v229H0z"/><path d="M0 475q125-101 268-18t251 18 281 36v89H0z" fill="#6f8a71"/><path d="M0 560q139-80 350-34t450 39v35H0z" fill="#536e59"/><path d="M350 402h146m38 24h117m-500 2h120m191 24h88" stroke="#f1ead7" stroke-width="3" opacity=".45"/><path d="M126 166q11-10 23 0m-7 6q12-10 23 0" stroke="#6f827b" stroke-width="3" fill="none"/>
+</svg>

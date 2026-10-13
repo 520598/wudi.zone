@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /wudi.zone/
+Sitemap: https://520598.github.io/wudi.zone/sitemap.xml
