@@ -4,11 +4,22 @@
         <title>纸间</title>
         <link>https://blog.wudi.zone/</link>
         <description>写一些日常，也记录那些值得留下的想法。</description>
-        <lastBuildDate>Fri, 09 Oct 2026 16:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 16:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <copyright>一位记录者</copyright>
+        <item>
+            <title><![CDATA[信息熵与人际交往：少一点猜测，多一点理解]]></title>
+            <link>https://blog.wudi.zone/posts/information-entropy-and-relationships/</link>
+            <guid isPermaLink="false">urn:blog:post:information-entropy-and-relationships</guid>
+            <pubDate>Wed, 14 Oct 2026 16:00:00 GMT</pubDate>
+            <description><![CDATA[发出一条消息后，我们为什么会忍不住猜来猜去？从抛硬币认识信息熵，再聊聊等待回复、表达需求，以及相处中值得保留的那一点自由。]]></description>
+            <author>一位记录者</author>
+            <category>信息熵</category>
+            <category>信息论</category>
+            <category>人际交往</category>
+        </item>
         <item>
             <title><![CDATA[把日子过慢一点]]></title>
             <link>https://blog.wudi.zone/posts/slow-days/</link>
